@@ -1,19 +1,19 @@
 Title: The Labyrinth of Existence
 Author: Franz Kafka
 
-In the labyrinth of existence,
-We wander aimlessly to and fro,
-Lost in a maze of doubt and fear,
-And unsure of where to go.
-We stumble blindly in the dark,
-Seeking out a guiding light,
-Hoping for a glimmer of hope,
-To lead us through the night.
-But all around us lies confusion,
-And our minds are filled with noise,
-As we struggle to make sense of it all,
-And find our rightful poise.
-Through the twists and turns of life,
+In the labyrinth of existence,              +-----+-----+-----------+
+We wander aimlessly to and fro,                   |     |           |
+Lost in a maze of doubt and fear,           +--+  +--+  +--+  +-----+
+And unsure of where to go.                  |     |  |              |
+We stumble blindly in the dark,             |  +--+  |  +  +--------+
+Seeking out a guiding light,                |  |  |  |  |           |
+Hoping for a glimmer of hope,               |  |  |  +--+  +--------+
+To lead us through the night.               |  |  |  |  |  |        |
+But all around us lies confusion,           |  |  +  +  |  |  +-----+
+And our minds are filled with noise,        |  |        |  |        |
+As we struggle to make sense of it all,     |  +--+  +  +  +  +--+  |
+And find our rightful poise.                |        |           |  |
+Through the twists and turns of life,       +--------+-----------+  +
 We trudge through mud and dirt,
 And yet, despite the hardships,
 We’re driven to keep alert.
